@@ -7,6 +7,7 @@ Mark Green 1, Emma Boyland 2
 2 Department of Psychology, University of Liverpool, Liverpool, UK
 
 **Abstract**
+
 UK local authorities are increasingly exploring restrictions for the advertising of unhealthy foods on their estates to promote healthier food environments. Concerns about effects on revenue can be a barrier to progress. In this study, we provide preliminary evidence that these policies did not negatively affect total advertising revenue across four local authorities in North West England. In some cases, we found that revenue increased post-implementation. 
 
 Pre-print to be published shortly. 
