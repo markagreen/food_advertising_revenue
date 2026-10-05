@@ -1,6 +1,7 @@
 # Do local authorities lose revenue following banning unhealthy food advertising?
 
 Mark Green 1, Emma Boyland 2
+
 1 Department of Geography and Planning, University of Liverpool, Liverpool, UK
 2 Department of Psychology, University of Liverpool, Liverpool, UK
 
